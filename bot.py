@@ -7,7 +7,7 @@ import discord
 #load_dotenv()
 #TOKEN = os.getenv('DISCORD_TOKEN')
 image_types = ["png", "jpeg", "gif", "jpg"]
-TOKEN ="ODI3NzgyODc2MTYxMzc2MjY1.YGgC4Q.DpIj9LRDyugNsatFoMYZxpt3taA"
+TOKEN =""
 GUILD="testing"
 from discord.ext import commands
 
